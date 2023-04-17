@@ -1,0 +1,26 @@
+# build folder of project
+dist
+
+.next
+.swc
+
+# Local and ignore files
+.vscode
+.prettierrc
+
+# Json/JS/Lock files
+yarn.lock
+.eslintrc.js
+package.json
+tsconfig.json
+next-env.d.ts
+.eslintrc.json
+postcss.config.js
+tailwind.config.js
+tsconfig.build.json
+commitlint.config.js
+next.config.json
+setupTests.ts
+
+# MD files
+README.md
